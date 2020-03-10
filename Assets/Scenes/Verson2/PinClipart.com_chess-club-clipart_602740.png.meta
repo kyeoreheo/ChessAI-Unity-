@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 69a5373d92eda492a977df5a25de12b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1961436596572735691
+    second: PinClipart.com_chess-club-clipart_602740_0
+  - first:
+      213: 6227560346167039349
+    second: PinClipart.com_chess-club-clipart_602740_1
+  - first:
+      213: -2968771475501255932
+    second: PinClipart.com_chess-club-clipart_602740_2
+  - first:
+      213: -2482280103838183571
+    second: PinClipart.com_chess-club-clipart_602740_3
+  - first:
+      213: 601435193581912998
+    second: PinClipart.com_chess-club-clipart_602740_4
+  - first:
+      213: -1959162513602670433
+    second: PinClipart.com_chess-club-clipart_602740_5
+  - first:
+      213: 8492189562831287946
+    second: PinClipart.com_chess-club-clipart_602740_6
+  - first:
+      213: -4125338109737785824
+    second: PinClipart.com_chess-club-clipart_602740_7
+  - first:
+      213: -3744767195628998555
+    second: PinClipart.com_chess-club-clipart_602740_8
+  - first:
+      213: 2214982442715886014
+    second: PinClipart.com_chess-club-clipart_602740_9
+  - first:
+      213: 8620983092634738196
+    second: PinClipart.com_chess-club-clipart_602740_10
+  - first:
+      213: -1830685885530284915
+    second: PinClipart.com_chess-club-clipart_602740_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 255
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 259
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d1167df2e64ac88ec6357c0c03d1d
+      internalID: 1961436596572735691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 342
+        width: 286
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbfa876751de4db286ec961e0617e10
+      internalID: 6227560346167039349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 345
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab71af12322414b31a7beaabdc702a8c
+      internalID: -2968771475501255932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 344
+        width: 250
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6596d0bff3f47b9ac4df3601991ee3
+      internalID: -2482280103838183571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_4
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 344
+        width: 212
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7edf6189f645c38fc4d6921e549b6
+      internalID: 601435193581912998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_5
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 340
+        width: 183
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871e3ce9cef34900a3e8711a98027c1
+      internalID: -1959162513602670433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6530675d19d174d4da2bff64ff07f8e8
+      internalID: 8492189562831287946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 286
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706f544549664a1eb656fcb1fae316e
+      internalID: -4125338109737785824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 12
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2cf4bfdde284b9d8b22b7348a39e96
+      internalID: -3744767195628998555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 10
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865befd2bad6f42ad9f50f5217688f50
+      internalID: 2214982442715886014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 10
+        width: 212
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9065c7ae49942ec949674204aaacec
+      internalID: 8620983092634738196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_chess-club-clipart_602740_11
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 7
+        width: 183
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d2ea5e9fce14145a6359f345b915a8
+      internalID: -1830685885530284915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
